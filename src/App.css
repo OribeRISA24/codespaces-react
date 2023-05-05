@@ -28,6 +28,8 @@
 
 .small {
   font-size: 0.75rem;
-  
+{  
 if = (items:front-size)
+  display: "flex-direction:colum center"
+  .app-link font-size: 0.92rem; 
 }
